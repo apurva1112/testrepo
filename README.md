@@ -1,5 +1,5 @@
 # testrepos
 tt65
 t s
-ggr
-ss
+ggr @112
+ss2
