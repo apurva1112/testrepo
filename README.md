@@ -3,9 +3,4 @@ tt65
 t s
 ggr
 ss
-a
-ss
-r
-a
-s
-d
+a88
